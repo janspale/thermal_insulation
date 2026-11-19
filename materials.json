@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Bílé keramické vlákno – Fiberfrax Durablanket S",
+    "points": [
+      [
+        600,
+        0.11
+      ],
+      [
+        800,
+        0.16
+      ],
+      [
+        1000,
+        0.21
+      ]
+    ],
+    "note": "https://ekomirelon.cz/getFile/case:show/id:431102",
+    "price_per_m2": 847,
+    "price_reference_thickness_mm": 50
+  },
+  {
+    "name": "Minerální vlna – Orstech 100",
+    "points": [
+      [
+        50,
+        0.041
+      ],
+      [
+        100,
+        0.047
+      ],
+      [
+        150,
+        0.054
+      ],
+      [
+        200,
+        0.063
+      ],
+      [
+        250,
+        0.073
+      ],
+      [
+        300,
+        0.084
+      ],
+      [
+        400,
+        0.11
+      ],
+      [
+        500,
+        0.143
+      ],
+      [
+        600,
+        0.182
+      ],
+      [
+        660,
+        0.209
+      ],
+      [
+        700,
+        0.55
+      ],
+      [
+        800,
+        0.65
+      ],
+      [
+        900,
+        0.75
+      ],
+      [
+        1000,
+        0.85
+      ]
+    ],
+    "note": "https://www.isover.cz/dokumenty/archiv-technicke-listy-ti/tl-2019-orstech-100-cz.pdf",
+    "price_per_m2": 880,
+    "price_reference_thickness_mm": 100
+  },
+  {
+    "name": "Konstantní lambda – PŘÍKLAD",
+    "points": [
+      [
+        20,
+        0.05
+      ]
+    ],
+    "note": "Konstantní hodnota pro všechny teploty; pouze příklad.",
+    "price_per_m2": null,
+    "price_reference_thickness_mm": null
+  },
+  
+  {
+    "name": "izobet",
+    "points": [
+      [
+        400,
+        0.52
+      ],
+      [
+        600,
+        0.56
+      ],
+      [
+        800,
+        0.61
+      ]
+    ],
+    "note": "by Ing Brichacek",
+    "price_per_m2":null,
+    "price_reference_thickness_mm": null
+  },
+  {
+    "name": "vermikulit deska",
+    "points": [
+      [
+        150.0,
+        0.083
+      ],
+      [
+        450.0,
+        0.147
+      ],
+      [
+        650.0,
+        0.203
+      ],
+      [
+        850.0,
+        0.276
+      ]
+    ],
+    "note": "https://www.grenamat.cz/soubor-doc95067/",
+    "price_per_m2": 1000.0,
+    "price_reference_thickness_mm": 20.0
+  }
+]
